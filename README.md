@@ -5,6 +5,8 @@
 
 [EEVBlog video](https://youtu.be/Q6NBnPfPhWE)
 
+[battery power](https://youtu.be/IYuYTfO6iOs)
+
 # Scaling hardware production
 [hackaday](http://hackaday.com/2017/06/14/designing-your-project-to-scale/#more-260425)
 
